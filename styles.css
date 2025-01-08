@@ -1,0 +1,16 @@
+body {
+    font-family: sans-serif, "Times New Roman", serif;
+}
+
+h1,
+h3 {
+    font-size: 32px;
+    font-weight: bold;
+    background-color: yellow;
+}
+
+button {
+    background-color: gray;
+    height: auto;
+    width: 70px;
+}
